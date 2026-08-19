@@ -26,7 +26,7 @@ Estou aprendendo desenvolvimento web e transformando ideias em projetos.
 
 Site criado para apresentar nossos produtos e serviços de impressão 3D.
 
-[Conheça o site da GW Studio 3D https://wesleyleitej.github.io/gw-studio-3d/
+[Conheça o site da GW Studio 3D](https://wesleyleitej.github.io/gw-studio-3d/)
 ## 📱 Entre em contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-GW_Studio_3D-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gw_studio3d/)
