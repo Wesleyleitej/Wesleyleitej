@@ -3,8 +3,7 @@
 Sou estudante de programação e fundador da **GW Studio 3D**.  
 Estou aprendendo desenvolvimento web e transformando ideias em projetos.
 
- 🚀 Sobre mim
-
+ ## 🚀 Sobre mim
 - 💻 Estudando programação e desenvolvimento web
 - 🌱 Atualmente aprendendo HTML, CSS e JavaScript
 - 🖨️ Fundador da GW Studio 3D
